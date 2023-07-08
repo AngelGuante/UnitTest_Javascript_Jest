@@ -1,0 +1,12 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "This project is a Demo of UnitTest in Javascript with Jest Framework.",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
