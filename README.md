@@ -10,6 +10,12 @@ Based on the jest official documentation https://jestjs.io/
 npm install jest --save-dev
 ```
 
+## Install dependencies
+
+```
+npm update
+```
+
 ## Excecute Jest UnitTest
 
 ```
