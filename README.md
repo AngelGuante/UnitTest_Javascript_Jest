@@ -6,7 +6,7 @@ Based on the jest official documentation https://jestjs.io/
 ## Install dependencies
 
 ```
-npm update
+npm install
 ```
 
 ## Excecute Jest UnitTest
